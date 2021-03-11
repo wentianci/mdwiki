@@ -1,0 +1,56 @@
+
+.daohang {
+float:left; 
+width:130px;
+margin-top:15px;
+}
+
+.mainpage-image{
+position: absolute;
+left: 50px;
+float:left; 
+margin-top:-10px;
+}
+
+
+.mainpage-text{
+position: absolute;
+left: 180px;
+float:left; 
+margin-top:-20px;
+}
+
+
+.mainpage-p {
+margin-top:-10px;
+text-indent:2em;
+}
+
+.font-p {
+	margin-left:2em;
+	min-height:60px;	
+	background-repeat:no-repeat ;
+}
+.font-hr {
+	margin-left:3em;
+}
+.font4 {
+	font-size:20px;
+	padding-left:7em;
+	
+	display:block;
+	margin-top:-20px;
+	
+}
+.font0 {
+	padding-left:12em;
+	
+	display:block;
+	margin-top:-10px;
+}
+.new {
+	font-size:50%;
+	color:yellow;
+	background-color:gray;
+}
+
